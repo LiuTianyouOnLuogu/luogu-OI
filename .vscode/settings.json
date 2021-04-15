@@ -5,6 +5,7 @@
         "limits": "cpp",
         "array": "cpp",
         "string_view": "cpp",
-        "iostream": "cpp"
+        "iostream": "cpp",
+        "istream": "cpp"
     }
 }
